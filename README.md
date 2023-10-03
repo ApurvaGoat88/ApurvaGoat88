@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Devlopment and Machine Learning
 - 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me apuravbraj@gmail.com
+- 📫 How to reach me apurvabraj@gmail.com
 
 <!---
 ApurvaGoat88/ApurvaGoat88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
