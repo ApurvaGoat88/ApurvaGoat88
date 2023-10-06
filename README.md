@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Apurva B raj
-- 👀 I’m interested in App Devlopment and Machine Learning
+- 👀 I’m interested in App Devlopment and Ui/Ux Design 
 - 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me apurvabraj@gmail.com
